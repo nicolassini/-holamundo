@@ -1,4 +1,4 @@
-# -holamundo
+# hola-mundo
 
 Mi primer repositorio
 
